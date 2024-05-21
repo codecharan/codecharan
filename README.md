@@ -2,7 +2,7 @@
 - 👀 I’m interested in FULL STACK
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Building a web Application
-- 📫 How to reach me on GitHub at @codecharan
+- 📫 You can  reach me on GitHub at @codecharan
 - 😄 Pronouns:
 - ⚡ Fun fact:
 
